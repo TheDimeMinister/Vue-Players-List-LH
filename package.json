@@ -1,0 +1,19 @@
+{
+  "name": "uz-fe-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "vue-country-flag": "^2.2.0",
+    "vue-moment": "^4.1.0"
+  },
+  "devDependencies": {}
+}
